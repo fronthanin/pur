@@ -6,7 +6,7 @@
     >
         <xpath expr="//table[1]/thead/tr//th[last()]" position="before">
             <th class="text-right">
-                <strong>Disc. (%)</strong>
+                <strong>Rem</strong>
             </th>
         </xpath>
         <xpath expr="//td[span[@t-field='line.price_subtotal']]" position="before">
